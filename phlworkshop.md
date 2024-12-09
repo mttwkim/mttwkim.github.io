@@ -11,3 +11,6 @@ It was also interesting to learn about how cassette tapes actually work. The wor
 *The House Archives Built* article makes an interesting point that physical archives, whether they are houses or cassette tapes, carry a different kind of weight than digital music files. Tapes don’t just save the song, but they also preserve a physical connection to a moment or feeling. At the workshop, holding the cassette in my hand and listening to the songs I chose felt more "real" and authentic than any of the playlists I have ever made on Spotify. 
 
 This workshop left me with a new appreciation for analog media and the the unique way it helps us preserve nostalgia and personal histories. I left this workshop thinking about how sometimes the less convenient and more intentional ways of preserving memories are the ones that stand out to us.
+
+<img width="279" alt="image" src="https://github.com/user-attachments/assets/ba69c3c3-e460-45e9-a128-4398cc4efb64">
+
