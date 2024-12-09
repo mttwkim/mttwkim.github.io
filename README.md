@@ -1,6 +1,4 @@
-[About page](about.html)
-
-[Portfolio](portfolio.html)
+[About](about.html)  |  [Portfolio](portfolio.html)
 
 ## Reflection Statement ##
 
