@@ -5,7 +5,7 @@ Below is a collection of projects and assignments that I completed this semester
 
 [Workshop at Penn Review](pennworkshop.html)
 
-[Workshop in Philadelphia Review](phlworkshop.html/)
+[Workshop in Philadelphia Review](phlworkshop.html)
 
 [Project in the EC Reflection](ec.html)
 
