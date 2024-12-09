@@ -1,5 +1,3 @@
-# mttwkim.github.io
-
 This is a portfolio of work that was completed this semester.
 
 This is a link to my [About page](about.html)
