@@ -1,1 +1,19 @@
+## Workshop at Penn Review ##
+
+Attending the “Python for Humanists” workshop was a very meaningful experience. Although many of the concepts covered in the workshop were basic programming concepts that I was already familiar with from my prior work experiences that required the use of Python, I still learned some new techniques that I believe will be very useful for future projects requiring coding or data analysis. Moreover, relearning foundational coding principles served as a very helpful refresher, and through this I was able to gain some new insights on how coding can intersect with the humanities.
+
+The person running this workshop started by having us open our own Python environment and attempt lines of code as they were being taught. Some of the topics that were covered included core concepts like assigning variables ( = ), defining strings ( “ ” ), calling functions ( ( ) ), and starting comments ( # ). While I had worked with these concepts before in my neuroscience lab, this was my first time actually learning from someone instead of teaching myself by searching and reading things online. 
+
+The topic that stuck out to me the most during the workshop was “for loops.” While I had heard about for loops before taking this workshop, I never really understood what they did or how they were used. The workshop instructor explained how for loops could be used to filter through large bodies of text and count specific words and phrases. After learning about it, I realized how useful this would have been in conducting initial research for my digital essay project. At the time, I spent a lot of effort manually skimming through the index to look for themes and patterns. However, if I had used techniques like for loops, I could have written a program that efficiently identified articles that related to my topic of interest.
+
+This realization was one way that I gained insight into how coding could overlap with the humanities in terms of doing research and looking for certain information. Tasks that would typically require a lot of time, such as analyzing texts, organizing data, or identifying patterns could be automated. By automating these processes, not only is time saved, but material is able to be engaged with on a deeper level, uncovering details that might be missed with manual review alone.
+
+Another interesting takeaway from the workshop was the overlap between the structure of Python and the structure of HTML and Markdown that we learned about in class. While the two languages serve different purposes, both rely on forming structured lines of code to obtain a desired end result. For Python, this would be more on the data analysis side, while for HTML and Markdown, it would be for formatting and presenting content. I believe that for the field of digital humanities, these two areas of coding can be used together to create “complete” projects: Python being used to analyze data and HTML/Markdown being used to convey this data in visually appealing formats.
+
+Overall, this workshop served as a good reminder and lesson of the valuable role that coding languages can have in the field of digital humanities. Now that I know different coding tools and languages, specifically Python, HTML, and Markdown, I have a better understanding of how they can be used together to streamline research processes and improve how information is presented and understood.
+
+<img width="282" alt="image" src="https://github.com/user-attachments/assets/3139f31b-d342-4d0c-bf00-e0095d65d0ff">
+
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/260d4aff-5aed-4411-82b4-9aaf7e92ec95">
+
 
