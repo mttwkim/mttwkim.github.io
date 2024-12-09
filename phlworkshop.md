@@ -1,4 +1,4 @@
-## Workshop at Philadelphia Review ##
+## Workshop in Philadelphia Review ##
 
 Attending the open cassette mixtape session was very interesting and felt like taking a step back into a time before being able to open Spotify on your phone and play any song you want to listen to. When I signed up for this workshop, I expected just a fun, somewhat quirky experience transferring my playlist onto a cassette tape, but the workshop turned out to be much more meaningful than I had expected. Learning about the history of cassette tapes, as well as the hands-on process of recording and the technical details of how cassette tapes are recorded on made me realize the ways that cassette tapes could capture memories in ways current digital media forms cannot.
 
