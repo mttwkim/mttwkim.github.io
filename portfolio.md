@@ -8,3 +8,5 @@ Below is a collection of projects and assignments that I completed this semester
 [Worksgop in Philadelphia Review](phlworkshop.html/)
 
 [Project in the EC Reflection](ec.html)
+
+To return to the main page, please click [here.](https://mttwkim.github.io/)
