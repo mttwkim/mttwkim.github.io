@@ -12,8 +12,6 @@ Another interesting takeaway from the workshop was the overlap between the struc
 
 Overall, this workshop served as a good reminder and lesson of the valuable role that coding languages can have in the field of digital humanities. Now that I know different coding tools and languages, specifically Python, HTML, and Markdown, I have a better understanding of how they can be used together to streamline research processes and improve how information is presented and understood.
 
-<img width="282" alt="image" src="https://github.com/user-attachments/assets/3139f31b-d342-4d0c-bf00-e0095d65d0ff">
-
-<img width="299" alt="image" src="https://github.com/user-attachments/assets/260d4aff-5aed-4411-82b4-9aaf7e92ec95">
+<img width="282" alt="image" src="https://github.com/user-attachments/assets/3139f31b-d342-4d0c-bf00-e0095d65d0ff">  <img width="299" alt="image" src="https://github.com/user-attachments/assets/260d4aff-5aed-4411-82b4-9aaf7e92ec95">
 
 
