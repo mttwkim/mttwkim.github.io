@@ -15,11 +15,9 @@ The dynamic of our group was very collaborative and efficient. I believe that th
 Overall, this project in the EC was a very unique experience that that allowed our group to produce a final product that highlights important themes within The Umpire. I’m glad that we did this project, as I would not have learned how sewing work or how different fabrics can be used on my own accord. Despite limitations in terms of time and resources, I am proud of what our group was able to accomplish.
 
 <img width="184" alt="image" src="https://github.com/user-attachments/assets/0a0b3f75-f37b-4441-bc0d-8bb00314a153">
-
 <img width="193" alt="image" src="https://github.com/user-attachments/assets/dc19840b-b764-48c8-b159-7e1c1110c0c4">
 
 <img width="271" alt="image" src="https://github.com/user-attachments/assets/27534722-e821-444b-9ee1-af7625907dc9">
-
 <img width="228" alt="image" src="https://github.com/user-attachments/assets/f120ff51-66ba-4603-b2e7-f5b6774703bf">
 
 
