@@ -18,7 +18,7 @@ Similarly, the EC project had the same purpose as our multimedia essays, but in 
 
 The workshops I attended also reinforced what we did in class. As I mentioned in my reflection, the cassette tape workshop reminded me to look at things on a deeper level and with intention—kind of like an archive. Although a cassette tape might just seem like something that plays music, I learned through the workshop that the process of recording onto tapes is very complex and everything must be done with intention. Overall, it was good reinforcement and practice of viewing things from a digital humanities perspective. Additionally, the Python workshop was a great opportunity to learn about organizing and analyzing data. I could see how Python could be applied to many aspects of our classwork. Although Python was more complicated than HTML and Markdown, I think the two languages can be used together to create complete projects.
 
-![IMG_9016](https://github.com/user-attachments/assets/e26b13d2-a4ec-4fbd-9bca-294fc0bfef1a)
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/e26b13d2-a4ec-4fbd-9bca-294fc0bfef1a" />
 
 Interestingly, the workshops also helped me discover some new interests. While I chose which workshops to attend, I didn’t expect to enjoy the cassette workshop as much as I did. In the future, I want to attend some more fun workshops in Philadelphia. The Python workshop was also a great reinforcement of what I’d learned in and before this class. I hope to use these skills and continue learning on my own in the future.
 
