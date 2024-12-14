@@ -7,3 +7,5 @@ First, I want to attend more workshops on coding languages. Learning Markdown, H
 Second, I want to continue researching Eastern State Penitentiary and *The Umpire* on my own. Visiting Eastern State earlier in the semester was a cool experience that helped me connect with the readings and projects we did in class in a meaningful way.  Now, after all the work we have done in the class, I want to revisit the information to deepen my understanding of the subjects I researched. I also think it would be exciting to explore new topics related to *The Umpire,* because diving down research rabbit holes was one of the most enjoyable parts of this class for me.
 
 Finally, I want to attend more “fun” workshops in Philadelphia with the new mindset I’ve gained through this digital humanities course. The cassette tape workshop, for example, helped me realize my fascination with vintage and retro technology. I want to explore this interest further and see how it might connect to digital humanities or other areas of study.
+
+[Back to main page](https://mttwkim.github.io/)
