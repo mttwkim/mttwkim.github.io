@@ -8,7 +8,7 @@ In the “Stories in the Data” section of *Democracy's Data,* Dan Bouk makes a
 
 For both projects, we started with a large index of *The Umpire* filled with entries defined by tags, newspaper volume numbers, dates, and other sorting variables. From a non-digital humanities perspective, someone might see the index as just a collection of newspapers organized into a spreadsheet. However, through the projects we developed in this class, Bouk’s perspective on data came to life. By diving into the details of the index, I was able to develop a story about a real person who existed within the stories of *The Umpire.* I also incorporated humanizing, interactive elements that allowed me to bring this person’s story to life.
 
-<img width="1509" alt="image" src="https://github.com/user-attachments/assets/aa3bcbc8-f7ef-406f-a950-64a7e3996353" />
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/aa3bcbc8-f7ef-406f-a950-64a7e3996353" />
 
 Music has always been something I’m interested in and passionate about, which is why I chose to attend a workshop related to music and cassette tapes that I’ll discuss later. Because of this interest, when I initially scanned for topics, I used music as a keyword and found a lot of information on one specific individual who was heavily involved with the E.S.P. band. While my main goal was to find a topic to write about, I also “got to know” someone from Eastern State in a sense. This familiarization allowed me to handpick pieces of music and information to include in my project. Ultimately, through the Printing in Prisons project, I was able to deeply understand a specific data set instead of viewing it at face value.
 
